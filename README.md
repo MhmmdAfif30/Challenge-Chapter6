@@ -1,1 +1,2 @@
-# Challenge-Chapter6
+# Galery-Art
+Challenge BE JS Chapter 6
