@@ -13,7 +13,7 @@ app.use("/api/v1", mediaRouter);
 app.get('/', (req, res) => {
   return res.json({
       status: true,
-      message: 'hello world!',
+      message: 'Challenge Chapter 6 - Muhamamd Afif Mutashim',
       error: null,
       data: null
   });
